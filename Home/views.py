@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 
 def home(request):
-    # service section in the index,html
+    # service section in the index,html ahmad
     services = [
         {
             'title': 'Web Devlopment',
